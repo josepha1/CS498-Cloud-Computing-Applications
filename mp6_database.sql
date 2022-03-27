@@ -5,7 +5,7 @@ CREATE TABLE mp6_table (
     hero VARCHAR(30),
     power VARCHAR(30),
     name VARCHAR(30),
-    xp INT(30),
+    xp INT,
     color VARCHAR(30),
     PRIMARY KEY(id);
 )
