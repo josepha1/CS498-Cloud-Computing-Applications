@@ -1,5 +1,5 @@
-CREATE database mp6_db;
-USE mp6_db;
+CREATE database mp6_db1;
+USE mp6_db1;
 CREATE TABLE mp6_table (
     id INT UNSIGNED AUTO_INCREMENT,
     hero VARCHAR(30),
